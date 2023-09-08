@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city">City: </string>
+    <string name="current_temp">Current temp: </string>
+    <string name="by_feeling">By feeling: </string>
+    <string name="temt_min">Temp min: </string>
+    <string name="temp_max">Temp max: </string>
+    <string name="humidity">Humidity: </string>
+</resources>
